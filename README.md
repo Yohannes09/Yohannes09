@@ -47,7 +47,7 @@ A shared repo containing foundational Spring Boot libraries:
 - AI copilots or hypersonic missiles
 - GitHub Issues or Discussions
   
- www.linkedin.com/in/yohannes-mata(#)
+ www.linkedin.com/in/yohannes-mata
 
 ---
 
