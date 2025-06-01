@@ -1,6 +1,6 @@
 # Hey, I'm Yohannes 👋
 
-I'm a backend engineer specializing in **system design**, **distributed systems**, and building production-grade services in **Java** with **Spring Boot**. I care about architecture that scales, code that lasts, and systems that don’t break under pressure.
+I'm a backend engineer fascinated by **system design**, **distributed systems**, and building production-grade services in **Java** with **Spring Boot**. I care about architecture that scales, code that lasts, and systems that don’t break under pressure.
 
 ---
 
