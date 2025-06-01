@@ -15,7 +15,7 @@ I'm a backend engineer fascinated by **system design**, **distributed systems**,
 
 ---
 
-## 🛠️ Projects I Actually Use
+## 🛠️ Projects
 
 ### 🚀 PayMe  
 A microservice-based peer-to-peer payment system that follows real-world architecture and industry best practices. Built to scale, not just to demo.
@@ -31,7 +31,7 @@ A shared repo containing foundational Spring Boot libraries:
 
 ---
 
-## 🧠 Interests That Actually Keep Me Up
+## 🧠 Interests
 
 - **System Design**: Scaling services, bounding contexts, async workflows
 - **Distributed Systems**: Eventual consistency, failure handling, messaging patterns
@@ -42,12 +42,12 @@ A shared repo containing foundational Spring Boot libraries:
 
 ## 📫 Reach Out If You're Into...
 
-- Design a system
+- Designing systems
 - Arguing over matchmaking algorithms
-- Talk about AI copilots or hypersonic missiles
+- AI copilots or hypersonic missiles
 - GitHub Issues or Discussions
   
-- [www.linkedin.com/in/yohannes-mata](#)
+ www.linkedin.com/in/yohannes-mata(#)
 
 ---
 
