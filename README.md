@@ -11,13 +11,13 @@ I'm a backend engineer fascinated by **system design**, **distributed systems**,
 - **Architecture**: Microservices, event-driven
 - **Infra**: AWS, PostgreSQL, Redis, Kafka, Docker
 - **Build & CI/CD**: Maven, GitHub Actions
-- **Security**: OAuth2, JWT, key rotation, layered auth strategies
+- **Security**: OAuth2, JWT
 
 ---
 
 ## 🛠️ Projects
 
-### 🚀 PayMe  
+### 🚀 AutMat  
 A microservice-based peer-to-peer payment system that follows real-world architecture and industry best practices. Built to scale, not just to demo.
 
 - Auth, Payments, Notifications, and more
@@ -39,13 +39,6 @@ A shared repo containing foundational Spring Boot libraries:
 - **Military Tech**: Air power (fighters, bombers, missiles, tanks), AI wingmen, integrated command, space warfare tech
 
 ---
-
-## 📫 Reach Out If You're Into...
-
-- Designing systems
-- Arguing over matchmaking algorithms
-- AI copilots or hypersonic missiles
-- GitHub Issues or Discussions
   
  www.linkedin.com/in/yohannes-mata
 
